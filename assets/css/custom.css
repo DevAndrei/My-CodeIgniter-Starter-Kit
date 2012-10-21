@@ -1,0 +1,7 @@
+/**
+ * All your custom CSS should go into this file
+ */
+#login-form { margin-top: 100px; }
+#login-form input[type=text], #login-form input[type=password]{ width: 90%; }
+#message { text-align: center; position: absolute; top: 0; width: 100%; }
+#current-user { text-align: center; overflow: hidden; }
